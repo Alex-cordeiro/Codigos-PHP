@@ -1,0 +1,42 @@
+@import'../node_modules/bootstrap/scss/bootstrap';
+
+.loginpage{
+    width: 650px;
+    padding: 8% 0 0;
+    margin:auto;
+   
+}
+
+
+.loginform{
+    width: auto;
+    height: auto;
+    background: #fff;
+    border:lightgray 4px groove;
+    padding:20px;
+    text-align: center;
+}
+
+.form{
+    position: relative;
+    z-index: 1;
+    background-color: cornsilk;
+    max-width: 360px;
+    margin: 0 auto 30px;
+    
+}
+
+.form input{
+    padding:10px;
+}
+
+
+.form-control{
+    margin: 20px 20px 10px 10px;
+}
+
+
+body{
+    background-color:#1E90FF;
+}
+
