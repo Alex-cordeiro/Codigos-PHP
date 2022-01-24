@@ -1,2 +1,2 @@
 # Codigos-PHP
- Repositório de Exmplos PHP
+ Repositório de Exemplos PHP
